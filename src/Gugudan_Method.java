@@ -1,4 +1,5 @@
 public class Gugudan_Method {
+
     public static int[] gugu(int number){
         int[] result = new int[9];
         for(int i = 0; i < result.length; i++){
